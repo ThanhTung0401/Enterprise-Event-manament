@@ -1,0 +1,6 @@
+﻿namespace SaaS_Enterprise_Event_and_Ticketing_Platform_with_AIsp.Domain;
+
+public class Class1
+{
+
+}
