@@ -1,0 +1,12 @@
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/bin/Debug/net10.0/EventPilot.Infrastructure.deps.json
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/bin/Debug/net10.0/EventPilot.Infrastructure.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/bin/Debug/net10.0/EventPilot.Infrastructure.pdb
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.AssemblyInfoInputs.cache
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.AssemblyInfo.cs
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.sourcelink.json
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/refint/EventPilot.Infrastructure.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/EventPilot.Infrastructure.pdb
+/home/dev_4t/Project/EventPilot/EventPilot.Infrastructure/obj/Debug/net10.0/ref/EventPilot.Infrastructure.dll

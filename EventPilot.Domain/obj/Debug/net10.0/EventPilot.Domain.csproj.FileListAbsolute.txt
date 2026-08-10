@@ -1,0 +1,12 @@
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.AssemblyInfoInputs.cache
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.AssemblyInfo.cs
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.csproj.CoreCompileInputs.cache
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.sourcelink.json
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/bin/Debug/net10.0/EventPilot.Domain.deps.json
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/bin/Debug/net10.0/EventPilot.Domain.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/bin/Debug/net10.0/EventPilot.Domain.pdb
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/refint/EventPilot.Domain.dll
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/EventPilot.Domain.pdb
+/home/dev_4t/Project/EventPilot/EventPilot.Domain/obj/Debug/net10.0/ref/EventPilot.Domain.dll
