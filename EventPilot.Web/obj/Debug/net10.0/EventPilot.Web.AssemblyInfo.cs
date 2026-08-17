@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventPilot.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da15d5c810df92d5e2c15e1a56b3080058ad3b26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c73b7ef8471739d33650f9cc1be07450b2f7ac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventPilot.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventPilot.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
