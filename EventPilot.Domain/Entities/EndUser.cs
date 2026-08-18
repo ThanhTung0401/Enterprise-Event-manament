@@ -20,7 +20,7 @@ public class EndUser : BaseEntity
         if (string.IsNullOrWhiteSpace(username))
             throw new ArgumentException("Username is required", nameof(username));
         if (string.IsNullOrWhiteSpace(email))
-            throw new ArgumentException("Email is requires", nameof(email));
+            throw new ArgumentException("Email is required", nameof(email));
         if (string.IsNullOrWhiteSpace(fullname))
             throw new ArgumentException("Fullname is required", nameof(fullname));
 
